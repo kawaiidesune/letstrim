@@ -1,0 +1,16 @@
+# Logs and databases #
+######################
+*.log
+log.txt
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Ren'Py Misc.       #
+######################
+*.rpyc
+game/saves/
